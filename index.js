@@ -1,9 +1,13 @@
 //Start of code
-var a;
 
-var add = function(x, y){
-a = x + y;
 
-};
+export function add(x, y){
+console.log(x + y);
 
-module.exports = 12;
+}
+
+export function subtract(x, y){
+    console.log(x - y);
+    
+}
+
