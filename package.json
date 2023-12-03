@@ -1,0 +1,11 @@
+{
+  "name": "meerjs",
+  "version": "0.0.1",
+  "description": "JS library for myself",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "SuperMeerkat",
+  "license": "ISC"
+}
