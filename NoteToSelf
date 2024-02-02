@@ -1,0 +1,6 @@
+Note to self:
+git add .
+git status
+git commit -m "[commit message]"
+npm version patch minor major
+npm publish
