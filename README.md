@@ -1,5 +1,5 @@
 # MeerJS
-Note: this library is in development and it is mostly me learning how to make a JS library.
+Note: this library is in development and it is mostly me learning how to make a JS library, check https://www.npmjs.com/package/meerjs for import.
 
 A JS library that optimizes javascript and fixes any annoyences that I have with this language.
 
